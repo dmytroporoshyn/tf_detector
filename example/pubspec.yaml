@@ -17,6 +17,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  google_mlkit_text_recognition: ^0.14.0
+  google_mlkit_barcode_scanning: ^0.13.0
+
   tf_detector:
     # When depending on this package from a real application you should use:
     #   tf_detector: ^x.y.z
